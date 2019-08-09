@@ -1,0 +1,18 @@
+{
+    "name": "BotServiceA1",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "23d81ba9-49c5-40b0-a37c-0078a86ae51f",
+            "appPassword": "iv62iT_^E%K9db$[dnNroqKj.^",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "09b6bc30-b83c-11e9-92ad-f32ac844b415",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "/Users/spietrek/Documents/Projects/BotServiceA1-src/BotServiceA1.bot"
+}
